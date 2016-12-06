@@ -13,8 +13,8 @@ author_description: Amongst the swirling souls
 email: ankitpanda1014@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   writepad for the soul
-baseurl: "/italics/" # the subpath of your site, e.g. /blog
-url: "https://sudoankit.github.io/italics" # the base hostname & protocol for your site
+baseurl: "https://sudoankit.github.io/italics/" # the subpath of your site, e.g. /blog
+url: "https://sudoankit.github.io" # the base hostname & protocol for your site
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
