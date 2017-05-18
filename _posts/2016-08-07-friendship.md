@@ -24,13 +24,8 @@ It ain't so now.
 **Friendship.** 
 A power from within the four chambered hearts. An emotion endless. A feeling of unity. The sunshine amidst the rain. 
 I love it now. 
-
-**Family.** 
-Sharing is caring. Caring is family. Family is being a sister. Being a sister with you makes the world more beautiful. 
-I'm so thankful for being with me as a sister. 
-
-
-_Subterfuge. Believe. Telepathy. Pain. Family._
+ 
+_Subterfuge. Believe. Telepathy. Pain._
 
 They all are different notations when you have true friendship. 
 
