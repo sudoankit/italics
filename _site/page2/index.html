@@ -5,8 +5,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Mothers Love.</title>
-  <meta name="description" content="12:15 am :">
+  <title>italics</title>
+  <meta name="description" content="writepad for the soul
+">
   
   
       <script>
@@ -22,7 +23,7 @@
   
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:700|Sanchez" type="text/css">
   <link rel="stylesheet" href="/css/screen.css">
-  <link rel="canonical" href="http://localhost:8081/2015/10/29/mother's-love/">
+  <link rel="canonical" href="http://localhost:8081/page2/">
   <link rel="alternate" type="application/rss+xml" title="italics" href="http://localhost:8081/feed.xml">
 </head>
 
@@ -34,7 +35,9 @@
 </header>
 
         <section role="main">
-            <article class="post">
+            <!-- This loops through the paginated posts -->
+
+  <article class="post">
     <header>
         <a href="/2015/10/29/mother's-love/">
             <h1 class="post-title">Mothers Love.</h1>
@@ -159,6 +162,68 @@ Her proud <strong>son</strong>.</p>
         
     </footer>
 </article>
+
+
+
+
+    <!-- Paginator Links -->
+<!-- Adopted from @shadowens brilliant solution: https://github.com/Shadowen/jekyll-paginator-links -->
+<ul class="pagination">
+    
+        
+    
+
+    
+    
+    
+        <!-- Align from the left -->
+        <!-- Absurdity required to calculate minimum -->
+        
+        
+    
+
+    <!-- First page -->
+    <li class="pagination-item">
+        <a class="pagination-link pagination-link--non-numeric"  href="/index.html"><span class="pagination-link-arrow pagination-link-arrow--leftward">&larr;</span> Beginning</a>
+    </li>
+
+    <!-- Previous page -->
+    <li class="pagination-item">
+        <a class="pagination-link pagination-link--non-numeric"  href="/"><span class="pagination-link-arrow pagination-link-arrow--leftward">&larr;</span> Prev</a>
+    </li>
+
+    <!-- Start ellipsis -->
+    
+
+    <!-- Page numbers -->
+    
+        <li class="pagination-item">
+            
+                <a class="pagination-link" href="/index.html"><span class="pagination-link-help">Page&nbsp;</span>1</a>
+            
+        </li>
+    
+        <li class="pagination-item">
+            
+            <a class="pagination-link pagination-link--selected" href="#"><span class="pagination-link-help">Page&nbsp;</span>2</a>
+            
+        </li>
+    
+
+    <!-- End ellipsis -->
+    
+
+    <!-- Next page -->
+    <li class="pagination-item">
+        <a class="pagination-link pagination-link--non-numeric" disabled="disabled" href="">Next <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
+    </li>
+
+    <!-- Last page -->
+    <li class="pagination-item">
+        <a class="pagination-link pagination-link--non-numeric" disabled="disabled" href="/page2">End <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
+    </li>
+</ul>
+
 
 
         </section>
