@@ -12,7 +12,7 @@ I can hear your shrill sirens of your beating heart, \\
 I can feel we drift far way, far apart. \\
 I can feel your frail hands holding me together, \\
 I can feel your love fading into a blur.
-ß
+
 I know I let you down, \\
 I know I raged while you were around. \\
 I know I became a slave of the evil inside. \\
