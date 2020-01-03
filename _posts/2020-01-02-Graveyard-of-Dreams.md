@@ -10,17 +10,17 @@ date:   2020-01-02
 
 I can hear your shrill sirens of your beating heart, \\
 I can feel we drift far way, far apart. \\
-I can your feel your frail hands holding me together, \\
-I can your feel your love fading into a blur.
-
+I can feel your frail hands holding me together, \\
+I can feel your love fading into a blur.
+ß
 I know I let you down, \\
-I know I raged while you’re around. \\
+I know I raged while you were around. \\
 I know I became a slave of the evil inside. \\
 I know I couldn’t be beside.
 
 I know I let our dreams die, \\
 Die in the graveyard of dreams. \\
-While I hold this Hennessy, cold. \\
+While I hold this Hennessy, cold, \\
 Pouring on the grave of our dream.
 
 I wish I could call you now, \\
